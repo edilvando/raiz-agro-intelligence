@@ -1,0 +1,992 @@
+{
+  "id": "RAIZ-CASE-01",
+  "title": "Três territórios para um piloto de agtech",
+  "status": "fictional_case_no_field_results",
+  "prepared_on": "2026-10-27",
+  "reference_year": 2017,
+  "source_snapshot_sha256": "b9e268969054279bb80d30ca6b410b8493a61110718ee2b010c7d0e7db764f96",
+  "observed": [
+    {
+      "id": "42",
+      "uf": "SC",
+      "name": "Santa Catarina",
+      "region": "Sul",
+      "establishments": 183066,
+      "area": 6448785,
+      "family": 142987,
+      "family_area": 2456219,
+      "internet": 92395,
+      "no_internet": 90671,
+      "assistance": 94863,
+      "no_assistance": 88203,
+      "tractor_farms": 82385,
+      "tractors": 108375,
+      "cluster": 1,
+      "base": 92395,
+      "intensity": 50.47086842996515,
+      "volumeScore": 84.61538461538461,
+      "intensityScore": 96.15384615384616,
+      "score": 89.23076923076924,
+      "selected": true,
+      "activity": [
+        {
+          "name": "Pecuária e criação de outros animais",
+          "count": 85617,
+          "percent": 46.76837861754777
+        },
+        {
+          "name": "Produção de lavouras temporárias",
+          "count": 68855,
+          "percent": 37.612118033933115
+        },
+        {
+          "name": "Produção florestal - florestas plantadas",
+          "count": 11702,
+          "percent": 6.392230124654496
+        },
+        {
+          "name": "Produção de lavouras permanentes",
+          "count": 8576,
+          "percent": 4.684649252182273
+        },
+        {
+          "name": "Horticultura e floricultura",
+          "count": 4958,
+          "percent": 2.7083128489178767
+        },
+        {
+          "name": "Aquicultura",
+          "count": 1648,
+          "percent": 0.9002217779380114
+        },
+        {
+          "name": "Produção florestal - florestas nativas",
+          "count": 1434,
+          "percent": 0.7833240470649929
+        },
+        {
+          "name": "Produção de sementes e mudas certificadas",
+          "count": 179,
+          "percent": 0.09777894311341265
+        },
+        {
+          "name": "Pesca",
+          "count": 97,
+          "percent": 0.05298635464805043
+        }
+      ]
+    },
+    {
+      "id": "43",
+      "uf": "RS",
+      "name": "Rio Grande do Sul",
+      "region": "Sul",
+      "establishments": 365094,
+      "area": 21684558,
+      "family": 293892,
+      "family_area": 5476463,
+      "internet": 150166,
+      "no_internet": 214928,
+      "assistance": 182283,
+      "no_assistance": 182811,
+      "tractor_farms": 160848,
+      "tractors": 242274,
+      "cluster": 1,
+      "base": 150166,
+      "intensity": 41.130777279276025,
+      "volumeScore": 92.3076923076923,
+      "intensityScore": 84.61538461538461,
+      "score": 89.23076923076923,
+      "selected": true,
+      "activity": [
+        {
+          "name": "Produção de lavouras temporárias",
+          "count": 193626,
+          "percent": 53.034560962382294
+        },
+        {
+          "name": "Pecuária e criação de outros animais",
+          "count": 130391,
+          "percent": 35.71436397201816
+        },
+        {
+          "name": "Produção de lavouras permanentes",
+          "count": 20064,
+          "percent": 5.495571003631941
+        },
+        {
+          "name": "Produção florestal - florestas plantadas",
+          "count": 12197,
+          "percent": 3.340783469462659
+        },
+        {
+          "name": "Horticultura e floricultura",
+          "count": 6666,
+          "percent": 1.8258311558119278
+        },
+        {
+          "name": "Produção florestal - florestas nativas",
+          "count": 1075,
+          "percent": 0.29444471834650804
+        },
+        {
+          "name": "Aquicultura",
+          "count": 769,
+          "percent": 0.21063068689159503
+        },
+        {
+          "name": "Produção de sementes e mudas certificadas",
+          "count": 213,
+          "percent": 0.05834113954214531
+        },
+        {
+          "name": "Pesca",
+          "count": 93,
+          "percent": 0.02547289191276767
+        }
+      ]
+    },
+    {
+      "id": "41",
+      "uf": "PR",
+      "name": "Paraná",
+      "region": "Sul",
+      "establishments": 305154,
+      "area": 14741967,
+      "family": 228888,
+      "family_area": 3559838,
+      "internet": 131994,
+      "no_internet": 173160,
+      "assistance": 137499,
+      "no_assistance": 167655,
+      "tractor_farms": 104243,
+      "tractors": 166393,
+      "cluster": 1,
+      "base": 131994,
+      "intensity": 43.25488114198077,
+      "volumeScore": 88.46153846153847,
+      "intensityScore": 88.46153846153847,
+      "score": 88.46153846153845,
+      "selected": true,
+      "activity": [
+        {
+          "name": "Produção de lavouras temporárias",
+          "count": 140435,
+          "percent": 46.0210254494452
+        },
+        {
+          "name": "Pecuária e criação de outros animais",
+          "count": 126428,
+          "percent": 41.430884078203135
+        },
+        {
+          "name": "Produção de lavouras permanentes",
+          "count": 15580,
+          "percent": 5.105618802309653
+        },
+        {
+          "name": "Horticultura e floricultura",
+          "count": 9908,
+          "percent": 3.246885179286524
+        },
+        {
+          "name": "Produção florestal - florestas plantadas",
+          "count": 7013,
+          "percent": 2.298183867817561
+        },
+        {
+          "name": "Produção florestal - florestas nativas",
+          "count": 4106,
+          "percent": 1.3455501156792964
+        },
+        {
+          "name": "Aquicultura",
+          "count": 1425,
+          "percent": 0.46697732947954146
+        },
+        {
+          "name": "Pesca",
+          "count": 148,
+          "percent": 0.048500101588050626
+        },
+        {
+          "name": "Produção de sementes e mudas certificadas",
+          "count": 111,
+          "percent": 0.03637507619103797
+        }
+      ]
+    },
+    {
+      "id": "31",
+      "uf": "MG",
+      "name": "Minas Gerais",
+      "region": "Sudeste",
+      "establishments": 607557,
+      "area": 38168688,
+      "family": 441829,
+      "family_area": 9979915,
+      "internet": 200642,
+      "no_internet": 406915,
+      "assistance": 158986,
+      "no_assistance": 448571,
+      "tractor_farms": 97548,
+      "tractors": 163431,
+      "cluster": 0,
+      "base": 200642,
+      "intensity": 33.02439112708766,
+      "volumeScore": 100,
+      "intensityScore": 65.38461538461539,
+      "score": 86.15384615384616,
+      "selected": false,
+      "activity": [
+        {
+          "name": "Pecuária e criação de outros animais",
+          "count": 358029,
+          "percent": 58.9292856472726
+        },
+        {
+          "name": "Produção de lavouras permanentes",
+          "count": 112818,
+          "percent": 18.569121909549228
+        },
+        {
+          "name": "Produção de lavouras temporárias",
+          "count": 99417,
+          "percent": 16.363402939971063
+        },
+        {
+          "name": "Horticultura e floricultura",
+          "count": 19771,
+          "percent": 3.254180266213705
+        },
+        {
+          "name": "Produção florestal - florestas plantadas",
+          "count": 9556,
+          "percent": 1.5728565385634599
+        },
+        {
+          "name": "Produção florestal - florestas nativas",
+          "count": 5895,
+          "percent": 0.9702793318157803
+        },
+        {
+          "name": "Aquicultura",
+          "count": 1337,
+          "percent": 0.22006165676636102
+        },
+        {
+          "name": "Produção de sementes e mudas certificadas",
+          "count": 588,
+          "percent": 0.09678104276635772
+        },
+        {
+          "name": "Pesca",
+          "count": 146,
+          "percent": 0.024030667081442563
+        }
+      ]
+    },
+    {
+      "id": "35",
+      "uf": "SP",
+      "name": "São Paulo",
+      "region": "Sudeste",
+      "establishments": 188620,
+      "area": 16512145,
+      "family": 122555,
+      "family_area": 2154384,
+      "internet": 91495,
+      "no_internet": 97125,
+      "assistance": 77211,
+      "no_assistance": 111409,
+      "tractor_farms": 84616,
+      "tractors": 175459,
+      "cluster": 1,
+      "base": 91495,
+      "intensity": 48.507581380553496,
+      "volumeScore": 80.76923076923077,
+      "intensityScore": 92.3076923076923,
+      "score": 85.38461538461539,
+      "selected": false,
+      "activity": [
+        {
+          "name": "Pecuária e criação de outros animais",
+          "count": 97763,
+          "percent": 51.83066482875623
+        },
+        {
+          "name": "Produção de lavouras temporárias",
+          "count": 33336,
+          "percent": 17.673629519669177
+        },
+        {
+          "name": "Produção de lavouras permanentes",
+          "count": 29853,
+          "percent": 15.827059696744778
+        },
+        {
+          "name": "Horticultura e floricultura",
+          "count": 20848,
+          "percent": 11.052910613932776
+        },
+        {
+          "name": "Produção florestal - florestas plantadas",
+          "count": 5309,
+          "percent": 2.814653801293606
+        },
+        {
+          "name": "Aquicultura",
+          "count": 793,
+          "percent": 0.42042201251192873
+        },
+        {
+          "name": "Produção de sementes e mudas certificadas",
+          "count": 384,
+          "percent": 0.2035839253525607
+        },
+        {
+          "name": "Produção florestal - florestas nativas",
+          "count": 275,
+          "percent": 0.1457957798748807
+        },
+        {
+          "name": "Pesca",
+          "count": 59,
+          "percent": 0.03127982186406532
+        }
+      ]
+    }
+  ],
+  "selection": {
+    "mission": "digital",
+    "volume_weight": 60,
+    "selected_states": [
+      "PR",
+      "SC",
+      "RS"
+    ],
+    "national_screen_before_region_filter": true,
+    "logic": "National shortlist at w=60 plus a deliberately regional operating hypothesis. Operational advantage is not measured by the census.",
+    "regional_scope_caveat": "All three selected states are in the South and in the same exploratory cluster; this does not test national representativeness or independent market environments.",
+    "municipalities_status": "not_selected",
+    "sensitivity": [
+      {
+        "weight": 40,
+        "eligible_top_three": [
+          "SC",
+          "PR",
+          "RS",
+          "SP"
+        ],
+        "cutoff_score": 87.6923076923077,
+        "has_boundary_tie": true,
+        "rows": [
+          {
+            "uf": "SC",
+            "score": 91.53846153846155,
+            "rank": 1
+          },
+          {
+            "uf": "PR",
+            "score": 88.46153846153847,
+            "rank": 2
+          },
+          {
+            "uf": "RS",
+            "score": 87.6923076923077,
+            "rank": 3
+          },
+          {
+            "uf": "SP",
+            "score": 87.69230769230768,
+            "rank": 3
+          },
+          {
+            "uf": "MG",
+            "score": 79.23076923076923,
+            "rank": 5
+          },
+          {
+            "uf": "ES",
+            "score": 74.61538461538461,
+            "rank": 6
+          },
+          {
+            "uf": "SE",
+            "score": 69.23076923076923,
+            "rank": 7
+          },
+          {
+            "uf": "BA",
+            "score": 63.846153846153854,
+            "rank": 8
+          },
+          {
+            "uf": "DF",
+            "score": 63.07692307692308,
+            "rank": 9
+          },
+          {
+            "uf": "PB",
+            "score": 62.30769230769231,
+            "rank": 10
+          },
+          {
+            "uf": "MS",
+            "score": 57.69230769230769,
+            "rank": 11
+          },
+          {
+            "uf": "GO",
+            "score": 54.61538461538461,
+            "rank": 12
+          },
+          {
+            "uf": "RJ",
+            "score": 53.84615384615384,
+            "rank": 13
+          },
+          {
+            "uf": "CE",
+            "score": 51.53846153846153,
+            "rank": 14
+          },
+          {
+            "uf": "PE",
+            "score": 47.69230769230769,
+            "rank": 15
+          },
+          {
+            "uf": "RO",
+            "score": 47.69230769230769,
+            "rank": 15
+          },
+          {
+            "uf": "MT",
+            "score": 46.15384615384615,
+            "rank": 17
+          },
+          {
+            "uf": "RN",
+            "score": 46.15384615384615,
+            "rank": 17
+          },
+          {
+            "uf": "AL",
+            "score": 33.84615384615385,
+            "rank": 19
+          },
+          {
+            "uf": "PI",
+            "score": 29.23076923076923,
+            "rank": 20
+          },
+          {
+            "uf": "PA",
+            "score": 28.46153846153846,
+            "rank": 21
+          },
+          {
+            "uf": "MA",
+            "score": 21.53846153846154,
+            "rank": 22
+          },
+          {
+            "uf": "TO",
+            "score": 21.538461538461537,
+            "rank": 22
+          },
+          {
+            "uf": "AC",
+            "score": 16.153846153846153,
+            "rank": 24
+          },
+          {
+            "uf": "AP",
+            "score": 16.153846153846153,
+            "rank": 24
+          },
+          {
+            "uf": "AM",
+            "score": 8.46153846153846,
+            "rank": 26
+          },
+          {
+            "uf": "RR",
+            "score": 1.5384615384615383,
+            "rank": 27
+          }
+        ]
+      },
+      {
+        "weight": 60,
+        "eligible_top_three": [
+          "SC",
+          "RS",
+          "PR"
+        ],
+        "cutoff_score": 88.46153846153845,
+        "has_boundary_tie": false,
+        "rows": [
+          {
+            "uf": "SC",
+            "score": 89.23076923076924,
+            "rank": 1
+          },
+          {
+            "uf": "RS",
+            "score": 89.23076923076923,
+            "rank": 1
+          },
+          {
+            "uf": "PR",
+            "score": 88.46153846153845,
+            "rank": 3
+          },
+          {
+            "uf": "MG",
+            "score": 86.15384615384616,
+            "rank": 4
+          },
+          {
+            "uf": "SP",
+            "score": 85.38461538461539,
+            "rank": 5
+          },
+          {
+            "uf": "BA",
+            "score": 74.61538461538461,
+            "rank": 6
+          },
+          {
+            "uf": "ES",
+            "score": 71.53846153846155,
+            "rank": 7
+          },
+          {
+            "uf": "SE",
+            "score": 65.38461538461539,
+            "rank": 8
+          },
+          {
+            "uf": "PB",
+            "score": 64.61538461538461,
+            "rank": 9
+          },
+          {
+            "uf": "CE",
+            "score": 60,
+            "rank": 10
+          },
+          {
+            "uf": "GO",
+            "score": 56.92307692307693,
+            "rank": 11
+          },
+          {
+            "uf": "PE",
+            "score": 56.15384615384615,
+            "rank": 12
+          },
+          {
+            "uf": "MS",
+            "score": 50,
+            "rank": 13
+          },
+          {
+            "uf": "RJ",
+            "score": 46.15384615384616,
+            "rank": 14
+          },
+          {
+            "uf": "MT",
+            "score": 46.15384615384615,
+            "rank": 14
+          },
+          {
+            "uf": "DF",
+            "score": 44.61538461538461,
+            "rank": 16
+          },
+          {
+            "uf": "RO",
+            "score": 44.61538461538461,
+            "rank": 16
+          },
+          {
+            "uf": "RN",
+            "score": 38.46153846153846,
+            "rank": 18
+          },
+          {
+            "uf": "PA",
+            "score": 36.92307692307692,
+            "rank": 19
+          },
+          {
+            "uf": "PI",
+            "score": 36.15384615384615,
+            "rank": 20
+          },
+          {
+            "uf": "AL",
+            "score": 31.53846153846154,
+            "rank": 21
+          },
+          {
+            "uf": "MA",
+            "score": 28.461538461538463,
+            "rank": 22
+          },
+          {
+            "uf": "TO",
+            "score": 20.76923076923077,
+            "rank": 23
+          },
+          {
+            "uf": "AC",
+            "score": 14.615384615384615,
+            "rank": 24
+          },
+          {
+            "uf": "AM",
+            "score": 10.76923076923077,
+            "rank": 25
+          },
+          {
+            "uf": "AP",
+            "score": 10.76923076923077,
+            "rank": 25
+          },
+          {
+            "uf": "RR",
+            "score": 2.307692307692308,
+            "rank": 27
+          }
+        ]
+      },
+      {
+        "weight": 80,
+        "eligible_top_three": [
+          "MG",
+          "RS",
+          "PR"
+        ],
+        "cutoff_score": 88.46153846153847,
+        "has_boundary_tie": false,
+        "rows": [
+          {
+            "uf": "MG",
+            "score": 93.07692307692308,
+            "rank": 1
+          },
+          {
+            "uf": "RS",
+            "score": 90.76923076923077,
+            "rank": 2
+          },
+          {
+            "uf": "PR",
+            "score": 88.46153846153847,
+            "rank": 3
+          },
+          {
+            "uf": "SC",
+            "score": 86.92307692307692,
+            "rank": 4
+          },
+          {
+            "uf": "BA",
+            "score": 85.38461538461539,
+            "rank": 5
+          },
+          {
+            "uf": "SP",
+            "score": 83.07692307692307,
+            "rank": 6
+          },
+          {
+            "uf": "CE",
+            "score": 68.46153846153845,
+            "rank": 7
+          },
+          {
+            "uf": "ES",
+            "score": 68.46153846153845,
+            "rank": 7
+          },
+          {
+            "uf": "PB",
+            "score": 66.92307692307692,
+            "rank": 9
+          },
+          {
+            "uf": "PE",
+            "score": 64.61538461538461,
+            "rank": 10
+          },
+          {
+            "uf": "SE",
+            "score": 61.53846153846153,
+            "rank": 11
+          },
+          {
+            "uf": "GO",
+            "score": 59.230769230769226,
+            "rank": 12
+          },
+          {
+            "uf": "MT",
+            "score": 46.15384615384615,
+            "rank": 13
+          },
+          {
+            "uf": "PA",
+            "score": 45.38461538461538,
+            "rank": 14
+          },
+          {
+            "uf": "PI",
+            "score": 43.07692307692307,
+            "rank": 15
+          },
+          {
+            "uf": "MS",
+            "score": 42.30769230769231,
+            "rank": 16
+          },
+          {
+            "uf": "RO",
+            "score": 41.53846153846153,
+            "rank": 17
+          },
+          {
+            "uf": "RJ",
+            "score": 38.46153846153845,
+            "rank": 18
+          },
+          {
+            "uf": "MA",
+            "score": 35.38461538461539,
+            "rank": 19
+          },
+          {
+            "uf": "RN",
+            "score": 30.769230769230766,
+            "rank": 20
+          },
+          {
+            "uf": "AL",
+            "score": 29.230769230769226,
+            "rank": 21
+          },
+          {
+            "uf": "DF",
+            "score": 26.15384615384615,
+            "rank": 22
+          },
+          {
+            "uf": "TO",
+            "score": 19.999999999999996,
+            "rank": 23
+          },
+          {
+            "uf": "AC",
+            "score": 13.076923076923077,
+            "rank": 24
+          },
+          {
+            "uf": "AM",
+            "score": 13.076923076923075,
+            "rank": 24
+          },
+          {
+            "uf": "AP",
+            "score": 5.384615384615383,
+            "rank": 26
+          },
+          {
+            "uf": "RR",
+            "score": 3.0769230769230766,
+            "rank": 27
+          }
+        ]
+      }
+    ],
+    "ties": "Scores within 1e-8 are displayed as tied; include all ties at third-place cutoff."
+  },
+  "assumptions": {
+    "fictional": true,
+    "company": "Agtech hipotética",
+    "product": "Caderno digital de operações e custos para propriedades agrícolas e pecuárias",
+    "decision": "Selecionar três UFs para um piloto regional; municípios e condições atuais ainda serão validados.",
+    "operations_base": "Curitiba/PR — premissa do caso, sem cálculo de distância ou custo de rota",
+    "duration_days": 90,
+    "sales_reps": 2,
+    "contacts_per_state": 50,
+    "interviews_per_state": 10,
+    "activated_trials_per_state": 6,
+    "paid_target_per_state": 3,
+    "monthly_ticket_brl": 200,
+    "reach_pct": 1,
+    "conversion_pct": 6,
+    "incremental_cost_per_contact_brl": 40,
+    "onboarding_hours_per_trial": 1.5,
+    "onboarding_hour_brl": 100,
+    "contingency_brl": 1300,
+    "incremental_budget_brl": 10000
+  },
+  "plans": [
+    {
+      "uf": "PR",
+      "historical_base": 131994,
+      "scenario": {
+        "contacts": 50,
+        "customers": 3,
+        "mrr": 600,
+        "annualRevenue": 7200,
+        "prospectingCost": 2000,
+        "cac": 666.6666666666666
+      },
+      "targets": {
+        "contacts": 50,
+        "interviews": 10,
+        "activated_trials": 6,
+        "paid_customers": 3
+      },
+      "actuals": {
+        "qualified_current_leads": null,
+        "contacts": null,
+        "interviews": null,
+        "activated_trials": null,
+        "paid_customers": null,
+        "prospecting_cost_brl": null,
+        "onboarding_median_minutes": null,
+        "d30_eligible_trials": null,
+        "d30_active_trials": null
+      },
+      "current_validation": {
+        "municipalities": null,
+        "partner_channels": null,
+        "quotes_or_route_costs": null,
+        "connectivity_verified": null,
+        "willingness_to_pay_evidence": null
+      }
+    },
+    {
+      "uf": "SC",
+      "historical_base": 92395,
+      "scenario": {
+        "contacts": 50,
+        "customers": 3,
+        "mrr": 600,
+        "annualRevenue": 7200,
+        "prospectingCost": 2000,
+        "cac": 666.6666666666666
+      },
+      "targets": {
+        "contacts": 50,
+        "interviews": 10,
+        "activated_trials": 6,
+        "paid_customers": 3
+      },
+      "actuals": {
+        "qualified_current_leads": null,
+        "contacts": null,
+        "interviews": null,
+        "activated_trials": null,
+        "paid_customers": null,
+        "prospecting_cost_brl": null,
+        "onboarding_median_minutes": null,
+        "d30_eligible_trials": null,
+        "d30_active_trials": null
+      },
+      "current_validation": {
+        "municipalities": null,
+        "partner_channels": null,
+        "quotes_or_route_costs": null,
+        "connectivity_verified": null,
+        "willingness_to_pay_evidence": null
+      }
+    },
+    {
+      "uf": "RS",
+      "historical_base": 150166,
+      "scenario": {
+        "contacts": 50,
+        "customers": 3,
+        "mrr": 600,
+        "annualRevenue": 7200,
+        "prospectingCost": 2000,
+        "cac": 666.6666666666666
+      },
+      "targets": {
+        "contacts": 50,
+        "interviews": 10,
+        "activated_trials": 6,
+        "paid_customers": 3
+      },
+      "actuals": {
+        "qualified_current_leads": null,
+        "contacts": null,
+        "interviews": null,
+        "activated_trials": null,
+        "paid_customers": null,
+        "prospecting_cost_brl": null,
+        "onboarding_median_minutes": null,
+        "d30_eligible_trials": null,
+        "d30_active_trials": null
+      },
+      "current_validation": {
+        "municipalities": null,
+        "partner_channels": null,
+        "quotes_or_route_costs": null,
+        "connectivity_verified": null,
+        "willingness_to_pay_evidence": null
+      }
+    }
+  ],
+  "scenario_totals": {
+    "contacts": 150,
+    "customers": 9,
+    "mrr": 1800,
+    "prospecting_cost": 6000,
+    "onboarding_cost": 2700,
+    "total_incremental_cost": 10000
+  },
+  "alternative_scenarios": [
+    {
+      "conversion_pct": 2,
+      "contacts": 150,
+      "customers": 3,
+      "mrr_brl": 600,
+      "label": "Arithmetic assumption, not forecast or measured conversion"
+    },
+    {
+      "conversion_pct": 6,
+      "contacts": 150,
+      "customers": 9,
+      "mrr_brl": 1800,
+      "label": "Arithmetic assumption, not forecast or measured conversion"
+    },
+    {
+      "conversion_pct": 10,
+      "contacts": 150,
+      "customers": 15,
+      "mrr_brl": 3000,
+      "label": "Arithmetic assumption, not forecast or measured conversion"
+    }
+  ],
+  "source_urls": [
+    "https://sidra.ibge.gov.br/tabela/6753",
+    "https://sidra.ibge.gov.br/tabela/6962",
+    "https://sidra.ibge.gov.br/tabela/6778"
+  ],
+  "claim_limits": [
+    "Internet access in 2017 is not current connectivity, digital adoption, willingness to pay or qualified leads.",
+    "Activity shares and internet access are separate marginals; their intersection is not observed here.",
+    "Pilot targets and economic assumptions are fictional; every actual result remains null.",
+    "Equal territorial quotas support learning, not random sampling, causal inference or national extrapolation.",
+    "Budget is incremental and excludes fixed salaries, travel, taxes and product development; no payback or unit-economics claim."
+  ]
+}

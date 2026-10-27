@@ -6,6 +6,14 @@ Um painel para transformar a **estrutura observada no Censo Agropecuário 2017**
 
 > Base histórica de 2017. Triagem territorial em nível estadual, sem comprovação de demanda atual, previsão de receita ou contatos de produtores. Projeto pessoal independente, sem endosso institucional.
 
+## Caso guiado — três territórios para um piloto
+
+[Abrir o exemplo em português](https://edilvando.github.io/raiz-agro-intelligence/piloto-agtech.html).
+
+Uma agtech hipotética usa a triagem nacional para propor PR, SC e RS para um piloto regional de 90 dias. O exemplo mostra alternativas, empates, sensibilidade dos pesos, orçamento incremental e critérios de medição. Dados observados são de 2017; empresa, metas e custos são premissas ilustrativas. Todos os resultados de campo permanecem nulos.
+
+Reprodução adicional na distribuição GitHub: `node build_case.cjs` e `python3 validate_case.py`. No checkout estruturado: `node scripts/build_case.cjs` e `python3 scripts/validate_case.py`. O validador refaz percentis e posições com frações exatas e concilia as contagens com os arquivos brutos. A página do caso está em português; o painel permanece nos três idiomas.
+
 ## Usos para empresas
 
 | Missão | Base observada | Próxima validação |
