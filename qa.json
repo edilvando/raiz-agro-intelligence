@@ -1,0 +1,185 @@
+{
+  "status": "passed",
+  "n_states": 27,
+  "national_reconciliations": [
+    {
+      "field": "establishments",
+      "sum_states": 5073324,
+      "official_brazil": 5073324,
+      "difference": 0,
+      "tolerance": 0
+    },
+    {
+      "field": "area",
+      "sum_states": 351289813,
+      "official_brazil": 351289816,
+      "difference": -3,
+      "tolerance": 27
+    },
+    {
+      "field": "family",
+      "sum_states": 3897408,
+      "official_brazil": 3897408,
+      "difference": 0,
+      "tolerance": 0
+    },
+    {
+      "field": "family_area",
+      "sum_states": 80891088,
+      "official_brazil": 80891084,
+      "difference": 4,
+      "tolerance": 27
+    },
+    {
+      "field": "internet",
+      "sum_states": 1430156,
+      "official_brazil": 1430156,
+      "difference": 0,
+      "tolerance": 0
+    },
+    {
+      "field": "no_internet",
+      "sum_states": 3643168,
+      "official_brazil": 3643168,
+      "difference": 0,
+      "tolerance": 0
+    },
+    {
+      "field": "assistance",
+      "sum_states": 1025443,
+      "official_brazil": 1025443,
+      "difference": 0,
+      "tolerance": 0
+    },
+    {
+      "field": "no_assistance",
+      "sum_states": 4047881,
+      "official_brazil": 4047881,
+      "difference": 0,
+      "tolerance": 0
+    },
+    {
+      "field": "tractor_farms",
+      "sum_states": 734280,
+      "official_brazil": 734280,
+      "difference": 0,
+      "tolerance": 0
+    },
+    {
+      "field": "tractors",
+      "sum_states": 1229907,
+      "official_brazil": 1229907,
+      "difference": 0,
+      "tolerance": 0
+    }
+  ],
+  "partition_checks": 84,
+  "raw_hashes_checked": 12,
+  "missing_values": 0,
+  "model": {
+    "algorithm": "k-means++ / z-score / Euclidean",
+    "features": [
+      "internet_pct",
+      "assistance_pct",
+      "tractor_pct",
+      "family_pct",
+      "log_mean_area"
+    ],
+    "selection": "Maximum silhouette, k=2..5, minimum 3 UFs per group, lowest inertia of 40 initializations per k",
+    "n": 27,
+    "k": 2,
+    "silhouette": 0.4371315587292829,
+    "candidates": [
+      {
+        "k": 2,
+        "silhouette": 0.4371315587292829,
+        "inertia": 71.80744403623272
+      },
+      {
+        "k": 3,
+        "silhouette": 0.4234833264301537,
+        "inertia": 49.80547184506234
+      },
+      {
+        "k": 4,
+        "silhouette": 0.3651012772999876,
+        "inertia": 35.91942771271372
+      },
+      {
+        "k": 5,
+        "silhouette": 0.35036119205959404,
+        "inertia": 29.432623924670867
+      }
+    ],
+    "means": [
+      28.89723478898807,
+      21.593363603676977,
+      14.617405758230191,
+      75.68836305713515,
+      4.14393567681433
+    ],
+    "std": [
+      14.776219429496422,
+      17.292553370527042,
+      14.84355394059015,
+      8.258933898146804,
+      0.9206326511511771
+    ],
+    "groups": [
+      {
+        "id": 0,
+        "name": "Perfil 1",
+        "members": [
+          "RO",
+          "AC",
+          "AM",
+          "RR",
+          "PA",
+          "AP",
+          "TO",
+          "MA",
+          "PI",
+          "CE",
+          "RN",
+          "PB",
+          "PE",
+          "AL",
+          "SE",
+          "BA",
+          "MG",
+          "ES",
+          "RJ"
+        ],
+        "means": {
+          "internet_pct": 22.756659187510447,
+          "assistance_pct": 12.95332714741508,
+          "tractor_pct": 5.868571945667822,
+          "family_pct": 78.97373849326965,
+          "log_mean_area": 3.923210000717757
+        }
+      },
+      {
+        "id": 1,
+        "name": "Perfil 2",
+        "members": [
+          "SP",
+          "PR",
+          "SC",
+          "RS",
+          "MS",
+          "MT",
+          "GO",
+          "DF"
+        ],
+        "means": {
+          "internet_pct": 43.48110184249742,
+          "assistance_pct": 42.11345018729898,
+          "tractor_pct": 35.395886063065824,
+          "family_pct": 67.8855963963157,
+          "log_mean_area": 4.66815915754369
+        }
+      }
+    ],
+    "limitations": "Exploratory description of 27 aggregated 2017 observations. No causal, predictive, individual-farm, or commercial validation."
+  }
+}

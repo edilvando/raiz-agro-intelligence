@@ -1,0 +1,74 @@
+[
+  {
+    "file": "metadata_6753.json",
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/6753/metadados",
+    "retrieved_at": "2026-10-27T14:51:47.505642+00:00",
+    "sha256": "aa476b032dd1877285d421fef449a924fcaf7ad2ed7b640cd59edc60756173df"
+  },
+  {
+    "file": "metadata_6778.json",
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/6778/metadados",
+    "retrieved_at": "2026-10-27T14:51:47.720390+00:00",
+    "sha256": "beed377ef7c8d012c2063e91b5cb43094781f64f4f0faed0a2736b4a3011df70"
+  },
+  {
+    "file": "metadata_6846.json",
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/6846/metadados",
+    "retrieved_at": "2026-10-27T14:51:48.095206+00:00",
+    "sha256": "482deede10372f5b3123132470fb398fc540a75bf82a894d958a02ba8cc5f3b7"
+  },
+  {
+    "file": "metadata_6871.json",
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/6871/metadados",
+    "retrieved_at": "2026-10-27T14:51:48.311559+00:00",
+    "sha256": "0cac5de878c0367463ad2f1e18009bd81828551a63b959c9f3b9a7a3b8f5ede1"
+  },
+  {
+    "file": "metadata_6962.json",
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/6962/metadados",
+    "retrieved_at": "2026-10-27T14:51:48.488492+00:00",
+    "sha256": "cd9db6b3ef175b283a2ce052b638a4965b6ffd4298d58f00f219ccabb9007ea3"
+  },
+  {
+    "file": "base.json",
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/6753/periodos/2017/variaveis/183|184?localidades=N1[all]|N3[all]&classificacao=829[46302,46304]|221[111195]|218[46502]|12564[41145]",
+    "retrieved_at": "2026-10-27T14:51:48.887573+00:00",
+    "sha256": "6de9ab45ffa923c7b47a5050ffdc15c54266e430540e7d83f3cb2d59c8f6480a"
+  },
+  {
+    "file": "activity.json",
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/6778/periodos/2017/variaveis/183?localidades=N1[all]|N3[all]&classificacao=829[46302]|309[10969]|218[46502]|12553[46523]|12517[113601,111519,111520,111521,111522,111523,111524,111525,114349,111526]|220[110085]",
+    "retrieved_at": "2026-10-27T14:51:50.687666+00:00",
+    "sha256": "3eeb54991c11353e170e20babbf4d95ca10a80ff1c465fb378e888435e9cbec7"
+  },
+  {
+    "file": "assistance.json",
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/6846/periodos/2017/variaveis/183?localidades=N1[all]|N3[all]&classificacao=829[46302]|12568[113197]|12598[41141]|12567[41151,113111,113559]|220[110085]",
+    "retrieved_at": "2026-10-27T14:51:50.398539+00:00",
+    "sha256": "35ad1c8f96b84aed9c51711e093c0f2793f6e6fab8dd4ee42714cdde8e5ada47"
+  },
+  {
+    "file": "tractors.json",
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/6871/periodos/2017/variaveis/1918|1862?localidades=N1[all]|N3[all]&classificacao=829[46302]|12605[113521]|12603[45927]|220[110085]",
+    "retrieved_at": "2026-10-27T14:51:48.936924+00:00",
+    "sha256": "94bdb1b13cf82abb9811f9bb038600ece1d70357f4b7f20efc9d5ac19c8feda3"
+  },
+  {
+    "file": "internet.json",
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/6962/periodos/2017/variaveis/183?localidades=N1[all]|N3[all]&classificacao=836[46531]|12549[46553]|798[47179,40696,40697]|220[110085]",
+    "retrieved_at": "2026-10-27T14:51:48.843567+00:00",
+    "sha256": "88179355e5bf57afa6d4bf8dc8a3ecbccdad1f5e72eaee8fe97eb6685eecf89e"
+  },
+  {
+    "file": "states.json",
+    "url": "https://servicodados.ibge.gov.br/api/v1/localidades/estados",
+    "retrieved_at": "2026-10-27T14:51:48.743879+00:00",
+    "sha256": "2a994489a715210102285449f9cf04c048f588b68c44c594051d7ccc04289ad7"
+  },
+  {
+    "file": "brazil_states.geojson",
+    "url": "https://servicodados.ibge.gov.br/api/v3/malhas/paises/BR?formato=application/vnd.geo+json&qualidade=minima&intrarregiao=UF",
+    "retrieved_at": "2026-10-27T14:51:48.828407+00:00",
+    "sha256": "e6261a0df75c915e162b29809fbc3addfb3266b4f45c647535a42ac0fe6877e9"
+  }
+]

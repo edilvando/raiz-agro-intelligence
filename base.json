@@ -1,0 +1,1608 @@
+[
+  {
+    "id": "183",
+    "variavel": "Número de estabelecimentos agropecuários",
+    "unidade": "Unidades",
+    "resultados": [
+      {
+        "classificacoes": [
+          {
+            "id": "829",
+            "nome": "Tipologia",
+            "categoria": {
+              "46302": "Total"
+            }
+          },
+          {
+            "id": "221",
+            "nome": "Condição legal das terras",
+            "categoria": {
+              "111195": "Total"
+            }
+          },
+          {
+            "id": "218",
+            "nome": "Condição do produtor em relação às terras",
+            "categoria": {
+              "46502": "Total"
+            }
+          },
+          {
+            "id": "12564",
+            "nome": "Sexo do produtor",
+            "categoria": {
+              "41145": "Total"
+            }
+          }
+        ],
+        "series": [
+          {
+            "localidade": {
+              "id": "1",
+              "nivel": {
+                "id": "N1",
+                "nome": "Brasil"
+              },
+              "nome": "Brasil"
+            },
+            "serie": {
+              "2017": "5073324"
+            }
+          },
+          {
+            "localidade": {
+              "id": "11",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Rondônia"
+            },
+            "serie": {
+              "2017": "91438"
+            }
+          },
+          {
+            "localidade": {
+              "id": "12",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Acre"
+            },
+            "serie": {
+              "2017": "37356"
+            }
+          },
+          {
+            "localidade": {
+              "id": "13",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Amazonas"
+            },
+            "serie": {
+              "2017": "80959"
+            }
+          },
+          {
+            "localidade": {
+              "id": "14",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Roraima"
+            },
+            "serie": {
+              "2017": "16846"
+            }
+          },
+          {
+            "localidade": {
+              "id": "15",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Pará"
+            },
+            "serie": {
+              "2017": "281699"
+            }
+          },
+          {
+            "localidade": {
+              "id": "16",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Amapá"
+            },
+            "serie": {
+              "2017": "8507"
+            }
+          },
+          {
+            "localidade": {
+              "id": "17",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Tocantins"
+            },
+            "serie": {
+              "2017": "63808"
+            }
+          },
+          {
+            "localidade": {
+              "id": "21",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Maranhão"
+            },
+            "serie": {
+              "2017": "219765"
+            }
+          },
+          {
+            "localidade": {
+              "id": "22",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Piauí"
+            },
+            "serie": {
+              "2017": "245601"
+            }
+          },
+          {
+            "localidade": {
+              "id": "23",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Ceará"
+            },
+            "serie": {
+              "2017": "394330"
+            }
+          },
+          {
+            "localidade": {
+              "id": "24",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Rio Grande do Norte"
+            },
+            "serie": {
+              "2017": "63452"
+            }
+          },
+          {
+            "localidade": {
+              "id": "25",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Paraíba"
+            },
+            "serie": {
+              "2017": "163218"
+            }
+          },
+          {
+            "localidade": {
+              "id": "26",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Pernambuco"
+            },
+            "serie": {
+              "2017": "281688"
+            }
+          },
+          {
+            "localidade": {
+              "id": "27",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Alagoas"
+            },
+            "serie": {
+              "2017": "98542"
+            }
+          },
+          {
+            "localidade": {
+              "id": "28",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Sergipe"
+            },
+            "serie": {
+              "2017": "93275"
+            }
+          },
+          {
+            "localidade": {
+              "id": "29",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Bahia"
+            },
+            "serie": {
+              "2017": "762848"
+            }
+          },
+          {
+            "localidade": {
+              "id": "31",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Minas Gerais"
+            },
+            "serie": {
+              "2017": "607557"
+            }
+          },
+          {
+            "localidade": {
+              "id": "32",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Espírito Santo"
+            },
+            "serie": {
+              "2017": "108014"
+            }
+          },
+          {
+            "localidade": {
+              "id": "33",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Rio de Janeiro"
+            },
+            "serie": {
+              "2017": "65224"
+            }
+          },
+          {
+            "localidade": {
+              "id": "35",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "São Paulo"
+            },
+            "serie": {
+              "2017": "188620"
+            }
+          },
+          {
+            "localidade": {
+              "id": "41",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Paraná"
+            },
+            "serie": {
+              "2017": "305154"
+            }
+          },
+          {
+            "localidade": {
+              "id": "42",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Santa Catarina"
+            },
+            "serie": {
+              "2017": "183066"
+            }
+          },
+          {
+            "localidade": {
+              "id": "43",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Rio Grande do Sul"
+            },
+            "serie": {
+              "2017": "365094"
+            }
+          },
+          {
+            "localidade": {
+              "id": "50",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Mato Grosso do Sul"
+            },
+            "serie": {
+              "2017": "71164"
+            }
+          },
+          {
+            "localidade": {
+              "id": "51",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Mato Grosso"
+            },
+            "serie": {
+              "2017": "118679"
+            }
+          },
+          {
+            "localidade": {
+              "id": "52",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Goiás"
+            },
+            "serie": {
+              "2017": "152174"
+            }
+          },
+          {
+            "localidade": {
+              "id": "53",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Distrito Federal"
+            },
+            "serie": {
+              "2017": "5246"
+            }
+          }
+        ]
+      },
+      {
+        "classificacoes": [
+          {
+            "id": "829",
+            "nome": "Tipologia",
+            "categoria": {
+              "46304": "Agricultura familiar - sim"
+            }
+          },
+          {
+            "id": "221",
+            "nome": "Condição legal das terras",
+            "categoria": {
+              "111195": "Total"
+            }
+          },
+          {
+            "id": "218",
+            "nome": "Condição do produtor em relação às terras",
+            "categoria": {
+              "46502": "Total"
+            }
+          },
+          {
+            "id": "12564",
+            "nome": "Sexo do produtor",
+            "categoria": {
+              "41145": "Total"
+            }
+          }
+        ],
+        "series": [
+          {
+            "localidade": {
+              "id": "1",
+              "nivel": {
+                "id": "N1",
+                "nome": "Brasil"
+              },
+              "nome": "Brasil"
+            },
+            "serie": {
+              "2017": "3897408"
+            }
+          },
+          {
+            "localidade": {
+              "id": "11",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Rondônia"
+            },
+            "serie": {
+              "2017": "74329"
+            }
+          },
+          {
+            "localidade": {
+              "id": "12",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Acre"
+            },
+            "serie": {
+              "2017": "31109"
+            }
+          },
+          {
+            "localidade": {
+              "id": "13",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Amazonas"
+            },
+            "serie": {
+              "2017": "70358"
+            }
+          },
+          {
+            "localidade": {
+              "id": "14",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Roraima"
+            },
+            "serie": {
+              "2017": "13103"
+            }
+          },
+          {
+            "localidade": {
+              "id": "15",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Pará"
+            },
+            "serie": {
+              "2017": "239737"
+            }
+          },
+          {
+            "localidade": {
+              "id": "16",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Amapá"
+            },
+            "serie": {
+              "2017": "6984"
+            }
+          },
+          {
+            "localidade": {
+              "id": "17",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Tocantins"
+            },
+            "serie": {
+              "2017": "44955"
+            }
+          },
+          {
+            "localidade": {
+              "id": "21",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Maranhão"
+            },
+            "serie": {
+              "2017": "187118"
+            }
+          },
+          {
+            "localidade": {
+              "id": "22",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Piauí"
+            },
+            "serie": {
+              "2017": "197246"
+            }
+          },
+          {
+            "localidade": {
+              "id": "23",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Ceará"
+            },
+            "serie": {
+              "2017": "297862"
+            }
+          },
+          {
+            "localidade": {
+              "id": "24",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Rio Grande do Norte"
+            },
+            "serie": {
+              "2017": "50680"
+            }
+          },
+          {
+            "localidade": {
+              "id": "25",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Paraíba"
+            },
+            "serie": {
+              "2017": "125489"
+            }
+          },
+          {
+            "localidade": {
+              "id": "26",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Pernambuco"
+            },
+            "serie": {
+              "2017": "232611"
+            }
+          },
+          {
+            "localidade": {
+              "id": "27",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Alagoas"
+            },
+            "serie": {
+              "2017": "82369"
+            }
+          },
+          {
+            "localidade": {
+              "id": "28",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Sergipe"
+            },
+            "serie": {
+              "2017": "72060"
+            }
+          },
+          {
+            "localidade": {
+              "id": "29",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Bahia"
+            },
+            "serie": {
+              "2017": "593411"
+            }
+          },
+          {
+            "localidade": {
+              "id": "31",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Minas Gerais"
+            },
+            "serie": {
+              "2017": "441829"
+            }
+          },
+          {
+            "localidade": {
+              "id": "32",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Espírito Santo"
+            },
+            "serie": {
+              "2017": "80775"
+            }
+          },
+          {
+            "localidade": {
+              "id": "33",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Rio de Janeiro"
+            },
+            "serie": {
+              "2017": "43786"
+            }
+          },
+          {
+            "localidade": {
+              "id": "35",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "São Paulo"
+            },
+            "serie": {
+              "2017": "122555"
+            }
+          },
+          {
+            "localidade": {
+              "id": "41",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Paraná"
+            },
+            "serie": {
+              "2017": "228888"
+            }
+          },
+          {
+            "localidade": {
+              "id": "42",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Santa Catarina"
+            },
+            "serie": {
+              "2017": "142987"
+            }
+          },
+          {
+            "localidade": {
+              "id": "43",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Rio Grande do Sul"
+            },
+            "serie": {
+              "2017": "293892"
+            }
+          },
+          {
+            "localidade": {
+              "id": "50",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Mato Grosso do Sul"
+            },
+            "serie": {
+              "2017": "43223"
+            }
+          },
+          {
+            "localidade": {
+              "id": "51",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Mato Grosso"
+            },
+            "serie": {
+              "2017": "81635"
+            }
+          },
+          {
+            "localidade": {
+              "id": "52",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Goiás"
+            },
+            "serie": {
+              "2017": "95684"
+            }
+          },
+          {
+            "localidade": {
+              "id": "53",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Distrito Federal"
+            },
+            "serie": {
+              "2017": "2733"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "184",
+    "variavel": "Área dos estabelecimentos agropecuários",
+    "unidade": "Hectares",
+    "resultados": [
+      {
+        "classificacoes": [
+          {
+            "id": "829",
+            "nome": "Tipologia",
+            "categoria": {
+              "46302": "Total"
+            }
+          },
+          {
+            "id": "221",
+            "nome": "Condição legal das terras",
+            "categoria": {
+              "111195": "Total"
+            }
+          },
+          {
+            "id": "218",
+            "nome": "Condição do produtor em relação às terras",
+            "categoria": {
+              "46502": "Total"
+            }
+          },
+          {
+            "id": "12564",
+            "nome": "Sexo do produtor",
+            "categoria": {
+              "41145": "Total"
+            }
+          }
+        ],
+        "series": [
+          {
+            "localidade": {
+              "id": "1",
+              "nivel": {
+                "id": "N1",
+                "nome": "Brasil"
+              },
+              "nome": "Brasil"
+            },
+            "serie": {
+              "2017": "351289816"
+            }
+          },
+          {
+            "localidade": {
+              "id": "11",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Rondônia"
+            },
+            "serie": {
+              "2017": "9219883"
+            }
+          },
+          {
+            "localidade": {
+              "id": "12",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Acre"
+            },
+            "serie": {
+              "2017": "4232700"
+            }
+          },
+          {
+            "localidade": {
+              "id": "13",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Amazonas"
+            },
+            "serie": {
+              "2017": "4018578"
+            }
+          },
+          {
+            "localidade": {
+              "id": "14",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Roraima"
+            },
+            "serie": {
+              "2017": "2636279"
+            }
+          },
+          {
+            "localidade": {
+              "id": "15",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Pará"
+            },
+            "serie": {
+              "2017": "28419453"
+            }
+          },
+          {
+            "localidade": {
+              "id": "16",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Amapá"
+            },
+            "serie": {
+              "2017": "1506294"
+            }
+          },
+          {
+            "localidade": {
+              "id": "17",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Tocantins"
+            },
+            "serie": {
+              "2017": "15180162"
+            }
+          },
+          {
+            "localidade": {
+              "id": "21",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Maranhão"
+            },
+            "serie": {
+              "2017": "12238489"
+            }
+          },
+          {
+            "localidade": {
+              "id": "22",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Piauí"
+            },
+            "serie": {
+              "2017": "10009858"
+            }
+          },
+          {
+            "localidade": {
+              "id": "23",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Ceará"
+            },
+            "serie": {
+              "2017": "6908179"
+            }
+          },
+          {
+            "localidade": {
+              "id": "24",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Rio Grande do Norte"
+            },
+            "serie": {
+              "2017": "2723148"
+            }
+          },
+          {
+            "localidade": {
+              "id": "25",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Paraíba"
+            },
+            "serie": {
+              "2017": "3424540"
+            }
+          },
+          {
+            "localidade": {
+              "id": "26",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Pernambuco"
+            },
+            "serie": {
+              "2017": "4471219"
+            }
+          },
+          {
+            "localidade": {
+              "id": "27",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Alagoas"
+            },
+            "serie": {
+              "2017": "1636712"
+            }
+          },
+          {
+            "localidade": {
+              "id": "28",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Sergipe"
+            },
+            "serie": {
+              "2017": "1460860"
+            }
+          },
+          {
+            "localidade": {
+              "id": "29",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Bahia"
+            },
+            "serie": {
+              "2017": "28020859"
+            }
+          },
+          {
+            "localidade": {
+              "id": "31",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Minas Gerais"
+            },
+            "serie": {
+              "2017": "38168688"
+            }
+          },
+          {
+            "localidade": {
+              "id": "32",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Espírito Santo"
+            },
+            "serie": {
+              "2017": "3246763"
+            }
+          },
+          {
+            "localidade": {
+              "id": "33",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Rio de Janeiro"
+            },
+            "serie": {
+              "2017": "2375373"
+            }
+          },
+          {
+            "localidade": {
+              "id": "35",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "São Paulo"
+            },
+            "serie": {
+              "2017": "16512145"
+            }
+          },
+          {
+            "localidade": {
+              "id": "41",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Paraná"
+            },
+            "serie": {
+              "2017": "14741967"
+            }
+          },
+          {
+            "localidade": {
+              "id": "42",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Santa Catarina"
+            },
+            "serie": {
+              "2017": "6448785"
+            }
+          },
+          {
+            "localidade": {
+              "id": "43",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Rio Grande do Sul"
+            },
+            "serie": {
+              "2017": "21684558"
+            }
+          },
+          {
+            "localidade": {
+              "id": "50",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Mato Grosso do Sul"
+            },
+            "serie": {
+              "2017": "30549179"
+            }
+          },
+          {
+            "localidade": {
+              "id": "51",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Mato Grosso"
+            },
+            "serie": {
+              "2017": "54922850"
+            }
+          },
+          {
+            "localidade": {
+              "id": "52",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Goiás"
+            },
+            "serie": {
+              "2017": "26275245"
+            }
+          },
+          {
+            "localidade": {
+              "id": "53",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Distrito Federal"
+            },
+            "serie": {
+              "2017": "257047"
+            }
+          }
+        ]
+      },
+      {
+        "classificacoes": [
+          {
+            "id": "829",
+            "nome": "Tipologia",
+            "categoria": {
+              "46304": "Agricultura familiar - sim"
+            }
+          },
+          {
+            "id": "221",
+            "nome": "Condição legal das terras",
+            "categoria": {
+              "111195": "Total"
+            }
+          },
+          {
+            "id": "218",
+            "nome": "Condição do produtor em relação às terras",
+            "categoria": {
+              "46502": "Total"
+            }
+          },
+          {
+            "id": "12564",
+            "nome": "Sexo do produtor",
+            "categoria": {
+              "41145": "Total"
+            }
+          }
+        ],
+        "series": [
+          {
+            "localidade": {
+              "id": "1",
+              "nivel": {
+                "id": "N1",
+                "nome": "Brasil"
+              },
+              "nome": "Brasil"
+            },
+            "serie": {
+              "2017": "80891084"
+            }
+          },
+          {
+            "localidade": {
+              "id": "11",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Rondônia"
+            },
+            "serie": {
+              "2017": "3480247"
+            }
+          },
+          {
+            "localidade": {
+              "id": "12",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Acre"
+            },
+            "serie": {
+              "2017": "2017305"
+            }
+          },
+          {
+            "localidade": {
+              "id": "13",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Amazonas"
+            },
+            "serie": {
+              "2017": "1766255"
+            }
+          },
+          {
+            "localidade": {
+              "id": "14",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Roraima"
+            },
+            "serie": {
+              "2017": "696140"
+            }
+          },
+          {
+            "localidade": {
+              "id": "15",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Pará"
+            },
+            "serie": {
+              "2017": "8624592"
+            }
+          },
+          {
+            "localidade": {
+              "id": "16",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Amapá"
+            },
+            "serie": {
+              "2017": "296432"
+            }
+          },
+          {
+            "localidade": {
+              "id": "17",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Tocantins"
+            },
+            "serie": {
+              "2017": "2886229"
+            }
+          },
+          {
+            "localidade": {
+              "id": "21",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Maranhão"
+            },
+            "serie": {
+              "2017": "3780319"
+            }
+          },
+          {
+            "localidade": {
+              "id": "22",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Piauí"
+            },
+            "serie": {
+              "2017": "3852846"
+            }
+          },
+          {
+            "localidade": {
+              "id": "23",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Ceará"
+            },
+            "serie": {
+              "2017": "3342608"
+            }
+          },
+          {
+            "localidade": {
+              "id": "24",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Rio Grande do Norte"
+            },
+            "serie": {
+              "2017": "946510"
+            }
+          },
+          {
+            "localidade": {
+              "id": "25",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Paraíba"
+            },
+            "serie": {
+              "2017": "1441215"
+            }
+          },
+          {
+            "localidade": {
+              "id": "26",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Pernambuco"
+            },
+            "serie": {
+              "2017": "2321555"
+            }
+          },
+          {
+            "localidade": {
+              "id": "27",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Alagoas"
+            },
+            "serie": {
+              "2017": "551034"
+            }
+          },
+          {
+            "localidade": {
+              "id": "28",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Sergipe"
+            },
+            "serie": {
+              "2017": "680515"
+            }
+          },
+          {
+            "localidade": {
+              "id": "29",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Bahia"
+            },
+            "serie": {
+              "2017": "9009143"
+            }
+          },
+          {
+            "localidade": {
+              "id": "31",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Minas Gerais"
+            },
+            "serie": {
+              "2017": "9979915"
+            }
+          },
+          {
+            "localidade": {
+              "id": "32",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Espírito Santo"
+            },
+            "serie": {
+              "2017": "1079038"
+            }
+          },
+          {
+            "localidade": {
+              "id": "33",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Rio de Janeiro"
+            },
+            "serie": {
+              "2017": "522535"
+            }
+          },
+          {
+            "localidade": {
+              "id": "35",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "São Paulo"
+            },
+            "serie": {
+              "2017": "2154384"
+            }
+          },
+          {
+            "localidade": {
+              "id": "41",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Paraná"
+            },
+            "serie": {
+              "2017": "3559838"
+            }
+          },
+          {
+            "localidade": {
+              "id": "42",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Santa Catarina"
+            },
+            "serie": {
+              "2017": "2456219"
+            }
+          },
+          {
+            "localidade": {
+              "id": "43",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Rio Grande do Sul"
+            },
+            "serie": {
+              "2017": "5476463"
+            }
+          },
+          {
+            "localidade": {
+              "id": "50",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Mato Grosso do Sul"
+            },
+            "serie": {
+              "2017": "1194888"
+            }
+          },
+          {
+            "localidade": {
+              "id": "51",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Mato Grosso"
+            },
+            "serie": {
+              "2017": "5131104"
+            }
+          },
+          {
+            "localidade": {
+              "id": "52",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Goiás"
+            },
+            "serie": {
+              "2017": "3628971"
+            }
+          },
+          {
+            "localidade": {
+              "id": "53",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Distrito Federal"
+            },
+            "serie": {
+              "2017": "14788"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
